@@ -1,0 +1,5 @@
+_background_
+bubble
+Character
+outChar
+effect

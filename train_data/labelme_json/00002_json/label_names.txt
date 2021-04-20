@@ -1,0 +1,5 @@
+_background_
+outChar
+cut
+bubble
+Character
