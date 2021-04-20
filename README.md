@@ -11,7 +11,7 @@ The model generates bounding boxes and segmentation masks for each instance of a
 
 
 
-* result
+* result(traing data 400images, epoch 100)
 
 
 
