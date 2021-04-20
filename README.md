@@ -12,4 +12,9 @@ The model generates bounding boxes and segmentation masks for each instance of a
 
 
 * result
+
+
+
+
+
 ![result](result/1.png)
